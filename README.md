@@ -7,21 +7,20 @@
 
 ## 🛠️ Technologies I Use
 
-## 🧠 RPA Tools
+### 🧠 RPA Tools
 
 <p align="left">
   <a href="https://www.uipath.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/UiPath_2019_logo.svg" height="40" alt="UiPath" title="UiPath"/>
+    <img src="https://github.com/smtuhin01/smtuhin01/assets/150484990/238b11a0-7c9e-4430-aad4-b2329ff399cc" height="40" alt="UiPath" title="UiPath"/>
   </a>
   <a href="https://powerautomate.microsoft.com/" target="_blank">
-    <img src="https://learn.microsoft.com/en-us/media/logos/power-automate-icon.svg" height="40" alt="Power Automate" title="Microsoft Power Automate"/>
+    <img src="https://github.com/smtuhin01/smtuhin01/assets/150484990/90d174f2-3a67-48f2-a7c0-986e3150408f" height="40" alt="Power Automate" title="Power Automate"/>
   </a>
 </p>
 
-
 ---
 
-## 🎨 Frontend Technologies
+### 🎨 Frontend Technologies
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -40,13 +39,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
   </a>
   <a href="http://fabricjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/fabricjs/fabric.js/master/assets/fabric-logo.png" height="40" alt="Fabric.js" title="Fabric.js"/>
+    <img src="https://github.com/smtuhin01/smtuhin01/assets/150484990/3f69dfb1-29aa-4d06-a7b3-fdb7386b54b9" height="40" alt="Fabric.js" title="Fabric.js"/>
   </a>
 </p>
 
 ---
 
-## ⚙️ Backend Technologies
+### ⚙️ Backend Technologies
 
 <p align="left">
   <a href="https://nodejs.org/" target="_blank">
@@ -67,10 +66,13 @@
 </p>
 
 ---
+
 ## 🔥 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smtuhin01&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smtuhin01&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smtuhin01&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtuhin01&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
