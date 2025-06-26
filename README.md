@@ -1,7 +1,7 @@
-## 👋 Hi there, I'm **Tuhin**
+## 👋 Hi there, I'm **Tuhin*
 
 🎓 Final Year Software Engineering Student @ UTM KL  
-💡 Passionate about RPA, web Development and AI  
+💡 Passionate about RPA ,Web Development, and AI  
 
 
 ---
