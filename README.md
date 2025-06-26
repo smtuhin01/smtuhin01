@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**smtuhin01/smtuhin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Tuhin
 
-Here are some ideas to get you started:
+🎓 Software Engineering student at UTM KL  
+💻 Passionate about RPA and Web Development ,AI 
+🚀 Currently building: MRI Simulator Web App  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I Use
+
+- JavaScript, HTML, CSS
+- Node.js, MongoDB
+- Express.js
+- Python, ROS2 (for robotic projects)
+- Fabric.js (Canvas manipulation)
+- Java(Basic)
+
+## 🔥 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smtuhin01&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smtuhin01&layout=compact&theme=radical)
+
+## 📫 Contact Me
+
+- Email: smtuhin957@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/s-m-tuhin-255980210/
+
