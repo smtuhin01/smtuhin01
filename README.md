@@ -29,10 +29,23 @@
 
 - 🧠 **MRI Simulator Web App**  
   A full-stack simulation system for medical students to visualize and interact with MRI scans.  
-  _Tech: HTML, CSS, JS, Node.js, MongoDB, Fabric.js_
+  _Tech: HTML, CSS, JS, Node.js, MongoDB, Fabric.js_  
+  [🔗 View Repo](https://github.com/smtuhin01/FYP)
+
+- 🤖 **Employee Leave Management System**  
+  A web app to manage employee leave requests with authentication, built using Node.js, MongoDB, and vanilla JS.  
+  _Tech: Node.js, MongoDB, JavaScript_  
+  [🔗 View Repo](https://github.com/smtuhin01/leaveApplication)
+
+- 📱 **Tasha Mobile App**  
+  A Flutter-based mobile app featuring user login/signup and a MySQL backend via Node.js Express API.  
+  _Tech: Flutter, Node.js, Express.js, MySQL_  
+  [🔗 View Repo](https://github.com/smtuhin01/Tasha_MobileApp)
 
 - 🤖 **RPA Automation Projects**  
-  Automating repetitive tasks using UiPath and Power Automate.
+  Automating repetitive tasks using UiPath and Power Automate.  
+  _Focus: Excel-to-Web Entry, Email Notifications, Form Automation_
+
 
 ---
 
