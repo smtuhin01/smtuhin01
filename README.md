@@ -6,21 +6,23 @@
 
 ## 🛠️ Technologies I Use
 
+
+
 ### 💻 Programming Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 
 ### 🖼️ Libraries & Tools
-![Fabric.js](https://img.shields.io/badge/-Fabric.js-333333?style=flat-square&logo=canvas&logoColor=white)
-![UiPath](https://img.shields.io/badge/-UiPath-FF6C37?style=flat-square&logo=uipath&logoColor=white)
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066CC?style=flat-square&logo=microsoft-power-automate&logoColor=white)
+![Fabric.js](https://img.shields.io/badge/Fabric.js-5A5A5A?style=flat&logo=javascript&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=flat&logo=uipath&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Microsoft%20Power%20Automate-0066CC?style=flat&logo=microsoft-power-automate&logoColor=white)
 
 ---
 
