@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tuhin
+# 👋 Hi, I'm S M Tuhin
 
 🎓 Software Engineering student at UTM KL  
 💻 Passionate about RPA, Web Development, AI
@@ -7,7 +7,7 @@
 
 ## 🛠️ Technologies I Use
 
-### 🧠 RPA Tools
+### 🤖🦾 RPA Tools
 
 <p align="left">
   <a href="https://www.uipath.com/" target="_blank">
