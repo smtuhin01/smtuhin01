@@ -1,44 +1,71 @@
 # 👋 Hi, I'm Tuhin
 
 🎓 Software Engineering student at UTM KL  
-💻 Passionate about Web Development, AI, and Medical Simulations  
-🚀 Currently building: MRI Simulator Web App  
+💻 Passionate about RPA, Web Development, AI, and Medical Simulations  
+
+---
 
 ## 🛠️ Technologies I Use
 
-
-
-## 🧠 RPA Tools
+### 🧠 RPA Tools
 
 <p align="left">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-uipath-a-leading-robotic-process-automation-software-company-logo-shadow-tal-revivo.png" height="40" alt="UiPath"/>
-  <img src="https://img.icons8.com/color/48/microsoft-power-automate--v1.png" height="40" alt="Power Automate"/>
+  <a href="https://www.uipath.com/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-uipath-a-leading-robotic-process-automation-software-company-logo-shadow-tal-revivo.png" height="40" alt="UiPath" title="UiPath"/>
+  </a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/microsoft-power-automate--v1.png" height="40" alt="Power Automate" title="Power Automate"/>
+  </a>
 </p>
 
 ---
 
-## 🎨 Frontend Technologies
+### 🎨 Frontend Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/FabricJS_logo.png" height="40" alt="Fabric.js"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  </a>
+  <a href="http://fabricjs.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/FabricJS_logo.png" height="40" alt="Fabric.js" title="Fabric.js"/>
+  </a>
 </p>
 
 ---
 
-## ⚙️ Backend Technologies
+### ⚙️ Backend Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
+  </a>
 </p>
 
 ---
@@ -52,7 +79,11 @@
 
 ## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smtuhin957@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-m-tuhin-255980210/)
-
-
+<p align="left">
+  <a href="mailto:smtuhin957@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/s-m-tuhin-255980210/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
