@@ -11,10 +11,13 @@
 
 <p align="left">
   <a href="https://www.uipath.com/" target="_blank">
-    <img src="https://github.com/smtuhin01/smtuhin01/assets/150484990/238b11a0-7c9e-4430-aad4-b2329ff399cc" height="40" alt="UiPath" title="UiPath"/>
+    <img src="https://raw.githubusercontent.com/smtuhin01/smtuhin01/main/assets/uipath.png" height="40" alt="UiPath" title="UiPath"/>
   </a>
   <a href="https://powerautomate.microsoft.com/" target="_blank">
-    <img src="https://github.com/smtuhin01/smtuhin01/assets/150484990/90d174f2-3a67-48f2-a7c0-986e3150408f" height="40" alt="Power Automate" title="Power Automate"/>
+    <img src="https://raw.githubusercontent.com/smtuhin01/smtuhin01/main/assets/powerautomate.png" height="40" alt="Power Automate" title="Power Automate"/>
+  </a>
+  <a href="https://fabricjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/smtuhin01/smtuhin01/main/assets/fabricjs.png" height="40" alt="Fabric.js" title="Fabric.js"/>
   </a>
 </p>
 
