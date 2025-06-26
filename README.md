@@ -24,28 +24,33 @@
 </div>
 
 ---
-
 ## 📌 Projects
 
-- 🧠 **MRI Simulator Web App**  
-  A full-stack simulation system for medical students to visualize and interact with MRI scans.  
-  _Tech: HTML, CSS, JS, Node.js, MongoDB, Fabric.js_  
-  [🔗 View Repo](https://github.com/smtuhin01/FYP)
+### 🤖 RPA Automation Projects
+Automating repetitive business workflows with robotic process automation tools.  
+_Focus Areas:_ Excel-to-Web Entry, Email Notifications, Form Automation  
+_Tools:_ **UiPath**, **Power Automate**
 
-- 🤖 **Employee Leave Management System**  
-  A web app to manage employee leave requests with authentication, built using Node.js, MongoDB, and vanilla JS.  
-  _Tech: Node.js, MongoDB, JavaScript_  
-  [🔗 View Repo](https://github.com/smtuhin01/leaveApplication)
+---
 
-- 📱 **Tasha Mobile App**  
-  A Flutter-based mobile app featuring user login/signup and a MySQL backend via Node.js Express API.  
-  _Tech: Flutter, Node.js, Express.js, MySQL_  
-  [🔗 View Repo](https://github.com/smtuhin01/Tasha_MobileApp)
+### 🧠 MRI Simulator Web App
+A full-stack simulation platform for medical students to visualize and interact with MRI scans in a virtual lab environment.  
+_Tech Stack:_ **HTML**, **CSS**, **JavaScript**, **Node.js**, **MongoDB**, **Fabric.js**  
+[🔗 View on GitHub »](https://github.com/smtuhin01/FYP)
 
-- 🤖 **RPA Automation Projects**  
-  Automating repetitive tasks using UiPath and Power Automate.  
-  _Focus: Excel-to-Web Entry, Email Notifications, Form Automation_
+---
 
+### 🗓️ Employee Leave Management System
+A web-based solution to manage employee leave requests, including authentication and role-based access.  
+_Tech Stack:_ **Node.js**, **MongoDB**, **JavaScript**  
+[🔗 View on GitHub »](https://github.com/smtuhin01/leaveApplication)
+
+---
+
+### 📱 Tasha Mobile App
+A mobile application built with Flutter for user signup/login with MySQL backend and Express.js API integration.  
+_Tech Stack:_ **Flutter**, **Node.js**, **Express.js**, **MySQL**  
+[🔗 View on GitHub »](https://github.com/smtuhin01/Tasha_MobileApp)
 
 ---
 
