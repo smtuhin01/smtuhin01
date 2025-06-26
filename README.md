@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tuhin
 
 🎓 Software Engineering student at UTM KL  
-💻 Passionate about RPA, Web Development, AI, and Medical Simulations  
+💻 Passionate about RPA, Web Development, AI
 
 ---
 
