@@ -1,65 +1,38 @@
-<h1 align="center">Hi there, I'm <em>Tuhin</em> 👋</h1>
+# 👋 Hi, I'm Tuhin
 
-<p align="center">
-🎓 Final Year Software Engineering Student @ UTM KL <br>
-💡 Passionate about <strong>RPA</strong>, <strong>Web Development</strong>, and <strong>AI</strong> <br>
-🚀 Currently Building: <strong>MRI Simulator Web App</strong>
-</p>
+🎓 Software Engineering student at UTM KL  
+💻 Passionate about Web Development, AI, and Medical Simulations  
+🚀 Currently building: MRI Simulator Web App  
 
----
+## 🛠️ Technologies I Use
 
-## ⚙️ Tech Stack & Tools
+### 💻 Programming Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/FabricJS_logo.png" height="40" alt="Fabric.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/UiPath_Logo.png" height="40" alt="UiPath"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Microsoft_Power_Automate_Logo.png" height="40" alt="Power Automate"/>
-  <img src="https://raw.githubusercontent.com/ros2/ros2/foxy/ros2_logo.png" height="40" alt="ROS2"/>
-</p>
+### 🖼️ Libraries & Tools
+![Fabric.js](https://img.shields.io/badge/-Fabric.js-333333?style=flat-square&logo=canvas&logoColor=white)
+![UiPath](https://img.shields.io/badge/-UiPath-FF6C37?style=flat-square&logo=uipath&logoColor=white)
+![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066CC?style=flat-square&logo=microsoft-power-automate&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 GitHub Stats
 
-### 🤖 RPA Automation Projects
-> Automating business workflows using UiPath and Power Automate.  
-> **Focus:** Excel-to-Web Entry, Email Automation, Workflow Bots  
-> **Tools:** UiPath, Power Automate
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smtuhin01&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smtuhin01&show_icons=true&theme=radical)
 
 ---
 
-### 🧠 MRI Simulator Web App
-> A web-based simulator for medical students to visualize and interact with MRI scans.  
-> **Stack:** HTML, CSS, JS, Node.js, MongoDB, Fabric.js  
-> 🔗 [View on GitHub](https://github.com/smtuhin01/FYP)
+## 📫 Contact Me
 
----
-
-### 🗓️ Employee Leave Management System
-> A system to manage employee leave requests with full authentication and tracking.  
-> **Stack:** Node.js, MongoDB, JavaScript  
-> 🔗 [View on GitHub](https://github.com/smtuhin01/leaveApplication)
-
----
-
-### 📱 Tasha Mobile App
-> A Flutter app with login/signup connected to MySQL via Node.js API.  
-> **Stack:** Flutter, Express.js, Node.js, MySQL  
-> 🔗 [View on GitHub](https://github.com/smtuhin01/Tasha_MobileApp)
-
----
-
-## 📬 Let’s Connect
-
-<p align="center">
-  <a href="mailto:smtuhin957@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/s-m-tuhin-255980210/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+- 📧 Email: yourname@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
