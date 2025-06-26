@@ -7,20 +7,21 @@
 
 ## 🛠️ Technologies I Use
 
-### 🧠 RPA Tools
+## 🧠 RPA Tools
 
 <p align="left">
   <a href="https://www.uipath.com/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-uipath-a-leading-robotic-process-automation-software-company-logo-shadow-tal-revivo.png" height="40" alt="UiPath" title="UiPath"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/UiPath_2019_logo.svg" height="40" alt="UiPath" title="UiPath"/>
   </a>
   <a href="https://powerautomate.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/microsoft-power-automate--v1.png" height="40" alt="Power Automate" title="Power Automate"/>
+    <img src="https://learn.microsoft.com/en-us/media/logos/power-automate-icon.svg" height="40" alt="Power Automate" title="Microsoft Power Automate"/>
   </a>
 </p>
 
+
 ---
 
-### 🎨 Frontend Technologies
+## 🎨 Frontend Technologies
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -38,17 +39,14 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
-  </a>
   <a href="http://fabricjs.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/FabricJS_logo.png" height="40" alt="Fabric.js" title="Fabric.js"/>
+    <img src="https://raw.githubusercontent.com/fabricjs/fabric.js/master/assets/fabric-logo.png" height="40" alt="Fabric.js" title="Fabric.js"/>
   </a>
 </p>
 
 ---
 
-### ⚙️ Backend Technologies
+## ⚙️ Backend Technologies
 
 <p align="left">
   <a href="https://nodejs.org/" target="_blank">
@@ -69,7 +67,6 @@
 </p>
 
 ---
-
 ## 🔥 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smtuhin01&layout=compact&theme=radical)
