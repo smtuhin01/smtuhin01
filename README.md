@@ -11,13 +11,13 @@
 
 <p align="left">
   <a href="https://www.uipath.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/smtuhin01/smtuhin01/main/assets/uipath.png" height="40" alt="UiPath" title="UiPath"/>
+    <img src="https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath"/>
   </a>
   <a href="https://powerautomate.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/smtuhin01/smtuhin01/main/assets/powerautomate.png" height="40" alt="Power Automate" title="Power Automate"/>
+    <img src="https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate"/>
   </a>
-  <a href="https://fabricjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/smtuhin01/smtuhin01/main/assets/fabricjs.png" height="40" alt="Fabric.js" title="Fabric.js"/>
+  <a href="http://fabricjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Fabric.js-303030?style=for-the-badge&logo=javascript&logoColor=yellow" alt="Fabric.js"/>
   </a>
 </p>
 
@@ -26,24 +26,12 @@
 ### 🎨 Frontend Technologies
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-  </a>
-  <a href="http://fabricjs.com/" target="_blank">
-    <img src="https://github.com/smtuhin01/smtuhin01/assets/150484990/3f69dfb1-29aa-4d06-a7b3-fdb7386b54b9" height="40" alt="Fabric.js" title="Fabric.js"/>
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
@@ -51,21 +39,11 @@
 ### ⚙️ Backend Technologies
 
 <p align="left">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 ---
