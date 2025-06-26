@@ -22,6 +22,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Microsoft_Power_Automate_Logo.png" height="40" alt="Power Automate"/>
   <img src="https://raw.githubusercontent.com/ros2/ros2/foxy/ros2_logo.png" height="40" alt="ROS2"/>
 </div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smtuhin01&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smtuhin01&layout=compact&theme=radical)
 
 ---
 ## 📌 Projects
