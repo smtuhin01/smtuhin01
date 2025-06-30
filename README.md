@@ -16,9 +16,7 @@
   <a href="https://powerautomate.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power%20Automate-0066CC?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate"/>
   </a>
-  <a href="http://fabricjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Fabric.js-303030?style=for-the-badge&logo=javascript&logoColor=yellow" alt="Fabric.js"/>
-  </a>
+
 </p>
 
 ---
@@ -32,6 +30,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <a href="http://fabricjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Fabric.js-303030?style=for-the-badge&logo=javascript&logoColor=yellow" alt="Fabric.js"/>
+  </a>
 </p>
 
 ---
